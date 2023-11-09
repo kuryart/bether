@@ -17,9 +17,7 @@ Start a complete BETH (Bun + Elysia + Turso + Htmx) worklfow template, from deve
 ### Rust on Nails Workflow
 Based in the following architecture used in [Rust on Nails](https://rust-on-nails.com/):
 
-<div style="background: white">
-    <img src="./docs/assets/architecture-diagram.svg" alt="Diagram" title="Architecture Diagram"/> 
-</div>
+<img src="./docs/assets/architecture-diagram.svg" alt="Diagram" title="Architecture Diagram"/>
 
 ### HDA (Hypermedia Driven Application)
 Based in [HDA (Hypermedia Driven Application)](https://htmx.org/essays/hypermedia-driven-applications/) architecture, as described by Carson Gross, Adam Stepinski and Deniz Akşimşek in their [book](https://hypermedia.systems/book/contents/);
